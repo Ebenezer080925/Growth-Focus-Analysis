@@ -91,7 +91,7 @@ lead to low amount of customer who has been verified, and we also have to check 
 
 This sub-dashboard deal majorly with the transactions history and the corridors
 
-![](https://github.com/Ebenezer080925/Growth-Focus-Analysis/blob/main/Screenshot%202025-05-14%20172203.png)
+![](https://github.com/Ebenezer080925/Growth-Focus-Analysis/blob/main/Screenshot%202025-05-14%20172203_1.png)
 
 From the charts we have total number of transaction which is 165,000 which gives us a total revenue of $60M+. We also denote the top corridor to be CAD – NGN and CAD -USD and the inactive corridors are EUR and INR (0.0 record).
 CAD(Canadian Dollar), NGN(Nigerian Naira), USD(United State Dollar), AUD(AustralianDollar), GHS(Ghanaian Cedi), KES(Kenyan shilling), EUR(Eurozone), INR(Indian Rupee).
@@ -125,7 +125,7 @@ Majority of users are in the 0–3 transaction segment, indicating low engagemen
 
 # FUNNEL ANALYSIS
 
-![](https://github.com/Ebenezer080925/Growth-Focus-Analysis/blob/main/Screenshot%202025-05-15%20151210.png)
+![](https://github.com/Ebenezer080925/Growth-Focus-Analysis/blob/main/Screenshot%202025-05-15%20151210_1.png)
 
 The funnel stage analysis shows the drop of rate according to each stages of movement from the Acquisition --> Complete Profile --> KYC verified --> Transaction which dropped from 100% to 75.1%. We also had a large drop off amount form the early stages which is from the Acquisition to the profile completed stage which is about 9005 users which is about -44.36%. And we can check further from the KPI to see other drop off rate.
 ![](https://github.com/Ebenezer080925/Growth-Focus-Analysis/blob/main/Screenshot%202025-05-19%20162131.png)
