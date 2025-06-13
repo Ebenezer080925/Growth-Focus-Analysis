@@ -10,7 +10,7 @@ Transaction Patterns, Retention Trends, and Funnel Stages. The goal is to identi
 user engagement, highlight revenue opportunities, and provide strategic recommendations for
 sustainable growth.
 
-### Data Files Description:
+### Dataset Description:
 
 - Users Table: Contains information about users, including registration details, KYC status, deactivation
 status, and occupation.
@@ -152,8 +152,7 @@ I added this chart to show increase in the KYC verification will increase the ra
 ## Conclusion :
 This growth-focused analysis reveals key gaps in user verification, engagement, and currency support. By addressing these bottlenecks with targeted product and communication strategies, the company can significantly improve user retention and revenue generation.
 
-## this is the pbix file to drill down on the visuals 
-[https://drive.google.com/file/d/1fULomeGBZfPuq6chALwW8IAS4spxTKPZ/view?usp=drive_link]
+ # You can drill down the dashboard with the Pbit file
 
 ## Socials
 [linkedin (http://www.linkedin.com/in/ebenezer-d-18675027a)]
